@@ -1,0 +1,13 @@
+# Output directories
+bin/
+lib/
+
+# CMake artifcats
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+
+# Ninja artifacts
+*.ninja
+.ninja_deps
+.ninja_log
