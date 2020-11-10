@@ -1,7 +1,7 @@
 add_definitions(-std=c++17)
 
 set(CXX_FLAGS
-  "-Weverything"
+  "-Wall"
   "-Wno-c++98-compat"
   "-Wno-deprecated-declarations"
   "-Wno-padded"
