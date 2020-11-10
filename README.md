@@ -10,13 +10,7 @@ installed on your system.
 
 ## Obtaining the source
 
-First, clone the repo:
-
-```shell
-git clone git@gitlab.com:cbracken/simple_allocator.git
-```
-
-Next, initialise and fetch git submodules:
+First, clone the repo; then, initialise and fetch git submodules:
 
 ```shell
 # Initialise local configuration file.
